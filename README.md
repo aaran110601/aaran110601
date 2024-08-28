@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaran110601
-- 👀 I’m interested in coding,electronics and mechanics
-- 🌱 I’m currently learning in Bits pilani
+- 👀 I’m interested in blockchain, devops, cloud computing and Ai
+- 🌱 I’m currently learning in Manipal University jaipur
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me aaran.983@gmail.com
 
